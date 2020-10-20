@@ -1,2 +1,2 @@
-# C33-AngryBird-BugFixesNew
-C33-AngryBird-BugFixesNew
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
